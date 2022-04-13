@@ -1,0 +1,84 @@
+.body {
+    background-image:url(https://th.bing.com/th/id/R.d2edb29f3f970c36aadecbb01ed0bb79?rik=z%2bAuuobpN0KNSg&riu=http%3a%2f%2fisquad.tv%2fwp-content%2fuploads%2f2018%2f08%2fNetflix-Background.jpg&ehk=Ij4PSd%2bZkTcESSlAVWoGpNmExM0fu3BgteNT6AnS9lM%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu {
+    height: 20%;
+}
+
+
+
+.conteudo {
+    background-color: black;
+    color: white;
+    width: 30%;
+    height: 30vh;
+    justify-content: center;
+    margin-left: 30%;
+}
+
+.inputs{
+    padding: 0.7em 0.7em;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;  
+    border: 2px solid rgba(70, 68, 68, 0.555);
+    align-items: center;
+  }
+  
+  button {
+    background: #D00000;
+    padding: 0.5em 0.5em;
+    border: none;
+    border-radius: 7px;
+    font-size: 17px;
+    color: white;
+    transition: all .5s ease-in-out;
+    margin-top: 10%;
+   }
+   
+   button:hover {
+    animation: gradient 3s infinite;
+    transform: scale(1.05);
+   }
+
+.rodape {
+    background-color: rgba(0, 0, 0, .75);
+    color: #757575;
+    margin-top: 20%;
+    height: 20vh;
+}
+
+.linhas {
+    margin-top: 1%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    font-size: 10px;
+    margin-left: 15%;
+}
+
+p {
+    display: block;
+    font-size: 18px;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+.linha1 {
+    width: 15%;
+}
+
+.linha2 {
+    width: 15%;
+}
+
+.linha3 {
+    width: 15%;
+}
+
+.linha4 {
+    width: 15%;
+}
